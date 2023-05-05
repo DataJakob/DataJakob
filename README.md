@@ -9,7 +9,7 @@
 <p> In this portofolio you will find a combination of school- and personal projects. </p>
 <p> If you  are interested about  reaching me; contact me -> <a href='https://no.linkedin.com/in/jakob-lindstr%C3%B8m-b71111207'> Jakob@LinkedIn </a> </p>
 <br>
-<p> This portofolio is quite young, just as my experience with coding. Therefore my portofolio will be supplemented as I come up with, create, and finsih new projects. First of all I will focus on Python projects, and mainly data analysis projects. </p>
+<p> This portofolio is quite young, just as my experience with coding. Therefore my portofolio will be supplemented as I come up with, create, and finish new projects. First of all I will focus on Python projects, and mainly data analysis projects. </p>
 <br>
 
 <h1>
