@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **DataJakob/DataJakob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1> Hi im jake </h1>
+<h1> Jakob's portofolio </h1>
+<p> I am currently finishing a bachelor  degree at NTNU business school in Trondheim, specializing in Business Analytics. </p>
+<p> I have a great deal of knowledge when it comes to Python and Excel, and I know the  basics of  HTML/CSS/JS. </p>
+<p> In this portofolio you will find a combination of school- and personal projects. </p>
+<br>
+
+<h1> Table of content </h1>
