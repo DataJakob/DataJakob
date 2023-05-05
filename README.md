@@ -50,5 +50,6 @@
      </td>
   </tr>
 </table>
+<em> Upcoming projects: <br>  SARIMAX of norwegian export of salmon <br> ML of marketing campaign</em>
 
 
