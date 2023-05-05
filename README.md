@@ -43,7 +43,7 @@
       <br>
       DISCLAIMER:
       <br>
-      I do not take any responsibility for potential consequences thats a result of using this programe.  
+      This is <strong>NOT</strong> a financial advice. I do not take any responsibility for potential consequences thats a result of using this programe.  
     </td>
     <td> 
       Live data, finance, portofolio, optimization
