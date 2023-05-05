@@ -50,6 +50,10 @@
      </td>
   </tr>
 </table>
-<em> Upcoming projects: <br>  SARIMAX of norwegian export of salmon <br> ML of marketing campaign</em>
+<em> Upcoming projects:
+  <br>  SARIMAX of norwegian export of salmon 
+  <br> ML of marketing campaign
+  <br> Maybe some tkinter work
+</em>
 
 
