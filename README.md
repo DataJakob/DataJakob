@@ -53,7 +53,8 @@
 <em> Upcoming projects:
   <br>  SARIMAX of norwegian export of salmon 
   <br> ML of marketing campaign
-  <br> Maybe some tkinter work
+  <br> Optimization methods using Excel
+  <br> Maybe: tkinter work and/or simple websites
 </em>
 
 
