@@ -50,7 +50,7 @@
      </td>
   </tr>
 </table>
-<em> Upcoming projects:
+<em> <h4>Upcoming projects:</h4>
   <br>  SARIMAX of norwegian export of salmon 
   <br> ML of marketing campaign
   <br> Optimization methods using Excel
