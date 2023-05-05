@@ -35,7 +35,7 @@
 
   <tr>
     <td>
-      LINK
+      <a href='https://github.com/DataJakob/DataJakob/blob/main/Portofolio_Optimization.ipynb'> Portofolio Optimization </a>
     </td>
     <td> 
       This project has the intention of optimizing a portofolio containg stocks. This programe retrieves live stockdata and analyze its performance to decide how one         can make the "best" portofolio given the stocks. 
