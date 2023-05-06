@@ -1,13 +1,11 @@
-<!--
-**DataJakob/DataJakob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 
 <h1> Jakob's portofolio </h1>
-<p> I am currently finishing a bachelor  degree at NTNU business school in Trondheim, specializing in Business Analytics. </p>
-<p> I have a great deal of knowledge when it comes to Python and Excel, and I know the  basics of  HTML/CSS/JS. </p>
-<p> In this portofolio you will find a combination of school- and personal projects. </p>
-<p> If you  are interested about  reaching me; contact me -> <a href='https://no.linkedin.com/in/jakob-lindstr%C3%B8m-b71111207'> Jakob@LinkedIn </a> </p>
+
+<p> Ongoing education: BSc in Business and Administration, specializing in Business Analytics at NTNU Business School in Trondheim </p>
+<p> Software skills: Python and Excel, and basic HTML/CSS/JS. </p>
+<p> Portofolio content: school- and personal projects. </p>
+<p> If you  are interested about reaching me; contact me -> <a href='https://no.linkedin.com/in/jakob-lindstr%C3%B8m-b71111207'> Jakob@LinkedIn </a> </p>
 <br>
 <p> This portofolio is quite young, just as my experience with coding. Therefore my portofolio will be supplemented as I come up with, create, and finish new projects. First of all I will focus on Python projects, and mainly data analysis projects. </p>
 <br>
