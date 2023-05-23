@@ -51,8 +51,9 @@
 <em> <h4>Upcoming projects:</h4>
   <br>  SARIMAX of norwegian export of salmon 
   <br> ML of marketing campaign
+  <br> Audio analysis
   <br> Optimization methods using Excel
-  <br> Maybe: tkinter work and/or simple websites
+  <br> Maybe: tkinter work and/or simple website
 </em>
 
 
