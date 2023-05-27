@@ -2,13 +2,13 @@
 
 <h1> Jakob's portofolio </h1>
 
-<p> Ongoing education: BSc in Business and Administration, specializing in Business Analytics at NTNU Business School in Trondheim </p>
-<p> Software skills: Python and Excel, and basic HTML/CSS/JS. </p>
-<p> Portofolio content: school- and personal projects. </p>
-<p> If you  are interested about reaching me; contact me -> <a href='https://no.linkedin.com/in/jakob-lindstr%C3%B8m-b71111207'> Jakob@LinkedIn </a> </p>
-<br>
-<p> This portofolio is quite young, just as my experience with coding. Therefore my portofolio will be supplemented as I come up with, create, and finish new projects. First of all I will focus on Python projects, and mainly data analysis projects. </p>
-<br>
+<ul>
+  <li>👨‍🎓 BSc in Business and Administration, specializing in Business Analytics at NTNU Business School in Trondheim</li>
+  <li>💻 Python, Excel/VBA and HTML5/JS/CSS3</li>
+  <li>🧠 Business Analytics, ML, Data Science and Python development </li>
+  <li>🎒 The content is a mixture of personal- and school projects</li>
+  <li>🔗 Reach me at <a href='https://no.linkedin.com/in/jakob-lindstr%C3%B8m-b71111207'> Jakob@LinkedIn </a></li>
+</ul>
 
 <h1>
   Projects
@@ -33,7 +33,7 @@
 
   <tr>
     <td>
-      <a href='https://github.com/DataJakob/DataJakob/blob/main/Portofolio_Optimization.ipynb'> Portofolio Optimization </a>
+      [Link inbound] Portofolio Optimization </a>
     </td>
     <td> 
       This project has the intention of optimizing a portofolio containg stocks. This programe retrieves live stockdata and analyze its performance to decide how one         can make the "best" portofolio given the stocks. 
