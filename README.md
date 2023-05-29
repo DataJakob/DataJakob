@@ -10,4 +10,9 @@
   <li>🔗 Reach me at <a href='https://no.linkedin.com/in/jakob-lindstr%C3%B8m-b71111207'> Jakob@LinkedIn </a></li>
 </ul>
 
-
+<h5> Upcoming projects </h5>
+<emp> 
+ML of a marketing campaign <br>
+Stock portofolio analysis <br>
+Audio signal analysis 
+</emp>
