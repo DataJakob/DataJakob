@@ -1,7 +1,6 @@
 
 
 <h1> Jakob's portofolio </h1>
-
 <ul>
   <li>👨‍🎓 BSc in Business and Administration, specializing in Business Analytics at NTNU Business School in Trondheim</li>
   <li>💻 Python, Excel/VBA and HTML5/JS/CSS3</li>
@@ -11,11 +10,4 @@
   <li> 🎛️ I'm also new to Kaggle, where I try to aquire knowledge and participate in competitions <a href='https://www.kaggle.com/jakoblindstroem'>Jakob@kaggle</a>.</li>
 </ul>
 
-<!--
-<h5> Upcoming projects </h5>
-<emp> 
-ML of a marketing campaign <br>
-Stock portofolio analysis <br>
-Audio signal analysis 
-</emp>
--->
+<h3> Newly completed project: https://github.com/DataJakob/Personal-projects/blob/main/PortofolioOptimizationForecasting.ipynb</h3>
