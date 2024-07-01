@@ -10,4 +10,4 @@
   <li> 🎛️ I'm also new to Kaggle, where I try to aquire knowledge and participate in competitions <a href='https://www.kaggle.com/jakoblindstroem'>Jakob@kaggle</a>.</li>
 </ul>
 
-<h3> Newly completed project: <a href='https://github.com/DataJakob/Personal-projects/blob/main/PortofolioOptimizationForecasting.ipynb'>Portofolio optimization and forecasting </a></h3>
+<h3> Newly completed project: <a href='[https://github.com/DataJakob/Personal-projects/blob/main/PortofolioOptimizationForecasting.ipynb](https://github.com/DataJakob/DT8807-Advanced-Topics-in-Deep-Learning)'>Portofolio optimization and forecasting </a></h3>
