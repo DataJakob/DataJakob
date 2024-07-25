@@ -1,13 +1,23 @@
 
 
 <h1> Jakob's portofolio </h1>
+
+<h4>  Positions: </h4>
 <ul>
-  <li>👨‍🎓 MSc in Business and Administration, specializing in Business Analytics at NTNU Business School in Trondheim</li>
-  <li>💻 Python, Excel/VBA and HTML5/JS/CSS3</li>
-  <li>🧠 Business Analytics, ML, Data Science and Python development </li>
-  <li>🎒 The content is a mixture of personal- and school projects</li>
-  <li>🔗 Reach me at <a href='https://www.linkedin.com/in/jakob-lindstr%C3%B8m/'> Jakob@LinkedIn </a></li>
-  <li> 🎛️ I'm also new to Kaggle, where I try to aquire knowledge and participate in competitions <a href='https://www.kaggle.com/jakoblindstroem'>Jakob@kaggle</a>.</li>
+  <li>  AI consultant at <a href="https://www.astarconsulting.no/">A* Consulting </a>. </li>
+  <li> AI Developer at <a href="https://www.linkedin.com/company/cogito-ntnu/mycompany/">Cogito NTNU</a>. </li>
+  <li> Project Management Intern focusing on AI for <a href="https://www.nexans.no/no/">Nexans</a>. </li>
+</ul>
+<h4>  Education: </h4>
+<ul><li>M.Sc in Business Analytics at NTNU Business School in Trondheim.</li></ul>
+
+<h3> Selection of projects</h3>
+<ul>
+  <li> Currently  working on a NLP-technology project for <a href="https://www.nexans.no/no/">Nexans</a> with  <a href="https://github.com/oskarnesheim"> Oskar Nesheim</a>.
+  <li> Delivered a paper in a <a href="https://www.ntnu.edu/studies/courses/DT8807#tab=omEmnet">PhD course</a> with a fellow student, we leveraged LSTM to forecast export of fresh norwegian salmon: <a href=https://github.com/DataJakob/DT8807-Advanced-Topics-in-Deep-Learning> PhD-repo</a>. </li>
+  <li> Deployed a chatbot at <a href="https://www.customertrends.no/"> customertrends.no </a> with a team from <a href="https://www.astarconsulting.no/">A* Consulting </a>.</li>
+  <li> Participated in R&D work for <a href="https://wepost.ai/nb/how-wepost-works"> wepost.ai </a>  with a team from <a href="https://www.linkedin.com/company/cogito-ntnu/mycompany/">Cogito NTNU</a>.</li>
+  <li> As a hobby project I created a program that calculates stock posistion to get a optimized portofolio, which then forecasts the future movements of the portofolio, <a href= "https://github.com/DataJakob/Hobby-projects/blob/main/PortofolioOptimizationForecasting.ipynb">Portofolio optimizer</a>. </li>
 </ul>
 
-<h3> Newly completed project: <a href='https://github.com/DataJakob/DT8807-Advanced-Topics-in-Deep-Learning'>DT8807-Advanced-Topics-in-Deep-Learning </a></h3>
+<!--<h2> Technologies I work with: </h2>-->
