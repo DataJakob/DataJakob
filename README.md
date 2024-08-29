@@ -5,8 +5,8 @@
 <h4>  Positions: </h4>
 <ul>
   <li>  AI consultant at <a href="https://www.astarconsulting.no/">A* Consulting </a>. </li>
-  <li> (former) AI Developer at <a href="https://www.linkedin.com/company/cogito-ntnu/mycompany/">Cogito NTNU (LinkedIn)</a>. </li>
   <li> (former) Project Management Intern focusing on AI for <a href="https://www.nexans.no/no/">Nexans</a>. </li>
+  <li> (former) AI Developer at <a href="https://www.linkedin.com/company/cogito-ntnu/mycompany/">Cogito NTNU (LinkedIn)</a>. </li>
 </ul>
 <h4>  Education: </h4>
 <ul><li>M.Sc in Business Analytics at NTNU Business School in Trondheim.</li></ul>
