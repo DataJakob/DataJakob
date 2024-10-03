@@ -20,4 +20,9 @@
   <li> As a hobby project I created a program that calculates stock posistion to get a optimized portofolio, which then forecasts the future movements of the portofolio, <a href= "https://github.com/DataJakob/Hobby-projects/blob/main/PortofolioOptimizationForecasting.ipynb">Portofolio optimizer</a>. </li>
 </ul>
 
-<!--<h2> Technologies I work with: </h2>-->
+<h4> Technologies I work with: </h4>
+GitHub, Python, HTML/CSS/JS, EXCEL/VBA
+
+<h4> Technologies I am currently learning: </h4>
+C#, AnyLogic, R
+
