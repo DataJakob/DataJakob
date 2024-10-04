@@ -24,5 +24,5 @@
 GitHub, Python, HTML/CSS/JS, EXCEL/VBA
 
 <h4> Technologies I am currently learning: </h4>
-C#, AnyLogic, R
+C#, AnyLogic, Julia
 
