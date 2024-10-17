@@ -10,6 +10,7 @@
 </ul>
 <h4>  Education: </h4>
 <ul>
+  <li> Exchange semester in Applied Economics at Universitât Wien</li>
   <li>M.Sc in Business Analytics at NTNU Business School in Trondheim.</li>
   <li>B.S in Business Analytics at NTNU Business School in Trondheim.</li>
 </ul>
