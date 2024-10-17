@@ -9,7 +9,10 @@
   <li> (former) AI Developer at <a href="https://www.linkedin.com/company/cogito-ntnu/mycompany/">Cogito NTNU (LinkedIn)</a>. </li>
 </ul>
 <h4>  Education: </h4>
-<ul><li>M.Sc in Business Analytics at NTNU Business School in Trondheim.</li></ul>
+<ul>
+  <li>M.Sc in Business Analytics at NTNU Business School in Trondheim.</li>
+  <li>B.S in Business Analytics at NTNU Business School in Trondheim.</li>
+</ul>
 
 <h3> Selection of projects</h3>
 <ul>
