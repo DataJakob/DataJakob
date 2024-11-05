@@ -28,9 +28,9 @@
 
 <h3> Technologies </h3>
 <h4> I know: </h4>
-Github,  Python, HTML/CSS/JS, MS365
+Github, Python, Julia, HTML/CSS/JS, MS365
 <h4> I am learning: </h4>
-Julia, C#, AnyLogic
+C#, AnyLogic
 <h4> I have encountered: </h4>
 VBA, Stata, SPSS
 
