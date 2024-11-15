@@ -1,6 +1,6 @@
 
 
-<h1> Jakob's portofolio </h1>
+<h1> Jakob Lindstrøm </h1>
 
 <h3>  Positions: </h3>
 <ul>
