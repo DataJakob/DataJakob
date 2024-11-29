@@ -20,7 +20,7 @@
 <ul>
   <li> Working on a XXX project with a team from <a href="https://www.astarconsulting.no/">A* Consulting</a> (will be released soon). </li>
   <li> Worked on a POC project using generative AI for <a href="https://www.nexans.no/no/">Nexans</a> with  <a href="https://github.com/oskarnesheim"> Oskar Nesheim</a>.
-  <li> Contributed with an AI-feasability analysis to an sustaniablity- and innovation funding application, which was granted 552 kNOK: <a href="https://www.saltdalutvikling.no/2024/11/22/fantastiske-nyheter-samfunnsutviklingsmidler/"> Saltdal kommune </a>.</li>
+  <li> Contributed with an AI-feasibility analysis to an sustaniablity- and innovation funding application, which was granted 552 kNOK: <a href="https://www.saltdalutvikling.no/2024/11/22/fantastiske-nyheter-samfunnsutviklingsmidler/"> Saltdal kommune </a>.</li>
   <li> Delivered a paper in a <a href="https://www.ntnu.edu/studies/courses/DT8807#tab=omEmnet">PhD course</a> with a fellow student, we leveraged LSTM to forecast export of norwegian salmon: <a href=https://github.com/DataJakob/DT8807-Advanced-Topics-in-Deep-Learning> PhD-repo</a>. </li>
   <li> Deployed a chatbot at <a href="https://www.customertrends.no/"> customertrends.no </a> with a team from <a href="https://www.astarconsulting.no/">A* Consulting </a>.</li>
   <li> Participated in R&D work for <a href="https://wepost.ai/nb/how-wepost-works"> wepost.ai </a>  with a team from <a href="https://www.linkedin.com/company/cogito-ntnu/mycompany/">Cogito NTNU (LinkedIn)</a>.</li>
