@@ -35,6 +35,6 @@ C#, AnyLogic
 <h4> I have encountered: </h4>
 VBA, Stata, SPSS
 
-
-
-
+<h3> Areas of computational interest: </h3>
+<p> ML, DL, Generativ AI, OR, SCM </p>
+ 
