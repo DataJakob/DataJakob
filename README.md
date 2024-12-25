@@ -5,6 +5,7 @@
 <h3>  Positions: </h3>
 <ul>
   <li>  AI consultant at <a href="https://www.astarconsulting.no/">A* Consulting </a>. </li>
+  <li> Visting Data Scientist at <a href="https://lumos-consulting.at/"> Lumos Student Data Consulting</a>.</li>
   <li> (former) Project Management Intern focusing on AI for <a href="https://www.nexans.no/no/">Nexans</a>. </li>
   <li> (former) AI Developer at <a href="https://www.linkedin.com/company/cogito-ntnu/mycompany/">Cogito NTNU (LinkedIn)</a>. </li>
   <li> (former) Student Assistant in <a href="https://www.ntnu.edu/studies/courses/BBAN3001#tab=omEmnet"> Essentials of Business Analytics</a> at NTNU Business School.</li>
