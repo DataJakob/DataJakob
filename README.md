@@ -19,7 +19,7 @@
 
 <h3> Selection of projects</h3>
 <ul>
-  <li> Working on a XXX project with a team from <a href="https://www.astarconsulting.no/">A* Consulting</a> (will be released soon). </li>
+  <li> Co-developed a customer chatbot for <a href="https://kundeservice.ctmlyng.no/"> CTM Lyng AS </a> with a team from <a href="https://www.astarconsulting.no/">A* Consulting</a>. </li>
   <li> Worked on a POC project using generative AI for <a href="https://www.nexans.no/no/">Nexans</a> with  <a href="https://github.com/oskarnesheim"> Oskar Nesheim</a>.
   <li> Contributed with an AI-feasibility analysis to a sustainability and innovation funding application, which was granted 552 kNOK: <a href="https://www.saltdalutvikling.no/2024/11/22/fantastiske-nyheter-samfunnsutviklingsmidler/"> Saltdal kommune </a>.</li>
   <li> Delivered a paper in a <a href="https://www.ntnu.edu/studies/courses/DT8807#tab=omEmnet">PhD course</a> with a fellow student, we leveraged LSTM to forecast export of norwegian salmon: <a href=https://github.com/DataJakob/DT8807-Advanced-Topics-in-Deep-Learning> PhD-repo</a>. </li>
