@@ -37,5 +37,5 @@ C#, AnyLogic
 VBA, Stata, SPSS
 
 <h3> Areas of computational interest: </h3>
-<p> ML, DL, Generativ AI, OR, SCM </p>
+<p> ML, DL, Agentic AI, OR, SCM </p>
  
