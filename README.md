@@ -12,13 +12,14 @@
 </ul>
 <h3>  Education: </h3>
 <ul>
-  <li> Exchange semester in Applied Economics at Universitât Wien</li>
-  <li>M.Sc in Business Analytics at NTNU Business School in Trondheim.</li>
+  <li> Exchange semester in Applied Economics at Universitât Wien (current)</li>
+  <li>M.Sc in Business Analytics at NTNU Business School in Trondheim  (5th year).</li>
   <li>B.S in Business Analytics at NTNU Business School in Trondheim.</li>
 </ul>
 
 <h3> Selection of projects</h3>
 <ul>
+  <li> Held a interactive presentation about the Langgraph framework for <a href="https://lumos-consulting.at/"> Lumos Consulting</a> where I used this  <a href="https://github.com/DataJakob/Langgraph-workshop-Lumos-SDC"> repo</a>.</li>
   <li> Co-developed a customer chatbot for <a href="https://kundeservice.ctmlyng.no/"> CTM Lyng AS </a> with a team from <a href="https://www.astarconsulting.no/">A* Consulting</a>. </li>
   <li> Worked on a POC project using generative AI for <a href="https://www.nexans.no/no/">Nexans</a> with  <a href="https://github.com/oskarnesheim"> Oskar Nesheim</a>.
   <li> Contributed with an AI-feasibility analysis to a sustainability and innovation funding application, which was granted 552 kNOK: <a href="https://www.saltdalutvikling.no/2024/11/22/fantastiske-nyheter-samfunnsutviklingsmidler/"> Saltdal kommune </a>.</li>
