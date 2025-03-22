@@ -4,6 +4,7 @@
 
 <h3>  Positions: </h3>
 <ul>
+  <li>  XXX in YYY area at YYY (TBC)</li>
   <li>  AI consultant at <a href="https://www.astarconsulting.no/">A* Consulting </a>. </li>
   <li> (former) Visting Data Scientist at <a href="https://lumos-consulting.at/"> Lumos Student Data Consulting</a>.</li>
   <li> (former) Project Management Intern focusing on AI for <a href="https://www.nexans.no/no/">Nexans</a>. </li>
@@ -12,8 +13,8 @@
 </ul>
 <h3>  Education: </h3>
 <ul>
-  <li> Exchange semester in Applied Economics at Universitât Wien (current)</li>
-  <li>M.Sc in Business Analytics at NTNU Business School in Trondheim  (5th year).</li>
+  <li>M.Sc in Business Analytics at NTNU Business School in Trondheim  (currently 5th year).</li>
+  <li> Exchange semester in Applied Economics at Universitât Wien (2nd year in M.Sc)</li>
   <li>B.S in Business Analytics at NTNU Business School in Trondheim.</li>
 </ul>
 
