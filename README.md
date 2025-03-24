@@ -4,7 +4,7 @@
 
 <h3>  Positions: </h3>
 <ul>
-  <li>  (TBA) XXX in YYY area at YYY </li>
+  <li>  (TBA) XXX in YYY area at ZZZ </li>
   <li>  AI consultant at <a href="https://www.astarconsulting.no/">A* Consulting </a>. </li>
   <li> (former) Visting Data Scientist at <a href="https://lumos-consulting.at/"> Lumos Student Data Consulting</a>.</li>
   <li> (former) Project Management Intern focusing on AI for <a href="https://www.nexans.no/no/">Nexans</a>. </li>
