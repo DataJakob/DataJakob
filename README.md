@@ -31,11 +31,15 @@
 </ul>
 
 <h3> Technologies </h3>
+<h4>I am learning</h4>
+Apex
+
 <h4> I know: </h4>
 Github, Python, Julia, HTML/CSS/JS, MS365
 
 <h4> I have encountered: </h4>
 C#, AnyLogic, VBA, Stata, SPSS
+
 
 <h3> Areas of computational interest: </h3>
 <p> ML, DL, Agentic AI, OR, SCM </p>
