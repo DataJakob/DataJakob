@@ -32,7 +32,7 @@
 
 <h3> Technologies </h3>
 <h4>I am learning</h4>
-Apex
+Apex (for Salesforce)
 
 <h4> I know: </h4>
 Github, Python, Julia, HTML/CSS/JS, MS365
