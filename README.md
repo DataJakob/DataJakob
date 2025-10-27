@@ -35,7 +35,7 @@
 Apex (for Salesforce)
 
 <h4> I know: </h4>
-Github, Python, Julia, HTML/CSS/JS, MS365
+Github, Python, Julia, HTML/CSS/JS, MS365, UML
 
 <h4> I have encountered: </h4>
 C#, AnyLogic, VBA, Stata, SPSS
